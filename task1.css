@@ -1,0 +1,44 @@
+.main{
+    border: 1px solid grey;
+    border-radius: 10px;
+    height: 70vh;
+    width: 40%;
+    margin-top: 6%;
+    background-color: #ecf0f3;
+}
+.box1{
+    display: flex;
+    justify-content: space-evenly;
+}
+#result{
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+    box-shadow: inset 0px 3px 12px grey;
+    padding: 18px;
+    margin-top: 2%;
+    font-size: 25px;
+}
+#ac{
+    width: 30%;
+    color: black;
+    border: none;
+    box-shadow: inset 1px 1px 6px grey, 1px 1px 6px  grey ;
+}
+#equal{
+    font-size: 30px; 
+    padding: 0px;
+    width: 30%;
+    color: black;
+    border: none;
+    box-shadow: inset 1px 1px 6px grey, 1px 1px 6px  grey ;
+}
+.no{
+    border: none;
+    width: 20%; 
+    box-shadow: inset 1px 1px 6px grey, 1px 1px 6px  grey ;
+}
+.box2{
+    display: flex;
+    justify-content: space-evenly;
+}
